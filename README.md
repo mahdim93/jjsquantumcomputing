@@ -1,1 +1,1 @@
-# jjsquantumcomputing
+# Job shop quantum computing
